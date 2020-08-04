@@ -1,6 +1,6 @@
 # shell
 
-Miniature shell program written in C
+Miniature shell program written in C  
 Developed and tested on Ubuntu Linux 4.4
 
 Features: 
